@@ -7,7 +7,7 @@ hands-on labs and real-world attack techniques.
 ## What I’m studying
 - Linux fundamentals
 - Networking basics
-- Web application vulnerabilities (XSS, SQLi, IDOR)
+- Web application vulnerabilities (XSS, SQLi)
 - Basic privilege escalation concepts
 
 ## Tools
